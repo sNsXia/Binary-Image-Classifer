@@ -1,0 +1,5 @@
+Hugging Face. (n.d.). Anime-faces [Data set]. huggan. https://huggingface.co/datasets/huggan/anime-faces (Accessed: 6 Nov 2025)
+
+Ashwin Gupta. (2020). Human Faces [Data set]. https://www.kaggle.com/datasets/ashwingupta3012/human-faces/data (Accessed: 7 Nov 2025)
+
+Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., & Wojna, Z. (2016). Rethinking the Inception Architecture for Computer Vision. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2818-2826. ttps://arxiv.org/abs/1512.00567[][10]
